@@ -1,8 +1,4 @@
 # User-Centered-System-Design-
-Okay, here are example README.md files for both the Food Services Proposal and the Class Registration System Proposal, suitable for a GitHub repository.
-
-GitHub README for A&D University Food Services Proposal
-Markdown
 
 # A&D University Food Services Digital Ordering System Proposal
 
@@ -109,91 +105,6 @@ Contributions to the discussion and refinement of this proposal are welcome. Ple
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 GitHub README for A&D University Class Registration System Proposal
 Markdown
-
-# A&D University Class Registration System Enhancement Proposal
-
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/your-username/class-registration-proposal/issues)
-
-This repository contains the proposal for enhancing the A&D University class registration system through the application of user-centered design principles. The goal is to address existing usability limitations and create a more intuitive, efficient, and visually appealing experience for students.
-
-## Table of Contents
-
-* [Executive Summary](#executive-summary)
-* [1. Introduction](#1-introduction)
-* [2. Analysis of Existing System Usability Deficiencies](#2-analysis-of-existing-system-usability-deficiencies)
-    * [2.1 Login Interface Deficiencies](#21-login-interface-deficiencies)
-    * [2.2 Post-Login Navigation and Information Presentation Issues](#22-post-login-navigation-and-information-presentation-issues)
-* [3. Proposed User-Centered Design Enhancements](#3-proposed-user-centered-design-enhancements)
-    * [3.1 Login Interface Redesign](#31-login-interface-redesign)
-    * [3.2 Post-Login Navigation and Information Presentation Improvements](#32-post-login-navigation-and-information-presentation-improvements)
-* [4. Benefits of Implementing User-Centered Design](#4-benefits-of-implementing-user-centered-design)
-* [5. Conclusion](#5-conclusion)
-* [Contributing](#contributing)
-* [License](#license)
-
-## Executive Summary
-
-This proposal addresses critical usability and design limitations within the existing A&D University class registration system. While the fundamental registration process may be perceived as straightforward, its overall execution suffers from a lack of user-centered design principles, leading to a clunky and suboptimal user experience. This document outlines specific areas for improvement, focusing on enhancing the login interface and the post-login navigation and information presentation. By implementing user-centered design methodologies, we aim to create a more intuitive, efficient, and visually appealing system that empowers students to manage their academic schedules effectively.
-
-## 1. Introduction
-
-The current A&D University class registration system, while functional, presents several usability challenges that detract from the overall user experience. These issues, ranging from the initial login process to the navigation and information display within the system, can lead to student frustration and inefficiency. This proposal identifies key areas requiring immediate attention and proposes user-centered design enhancements to create a more seamless and intuitive registration experience.
-
-## 2. Analysis of Existing System Usability Deficiencies
-
-Our initial assessment of the existing class registration system reveals several critical usability issues that warrant immediate remediation:
-
-### 2.1 Login Interface Deficiencies
-
-* Lack of Professional Design and Visual Appeal
-* Insufficient User Guidance
-* Ambiguous Input Fields
-* Suboptimal Font Size
-
-### 2.2 Post-Login Navigation and Information Presentation Issues
-
-* Inefficient Navigation Structure
-* Lack of Clear Information Identifiers
-* Suboptimal Schedule Visualization
-
-## 3. Proposed User-Centered Design Enhancements
-
-To address the identified usability deficiencies, we propose the following user-centered design enhancements:
-
-### 3.1 Login Interface Redesign
-
-* Enhanced Visual Design
-* Integrated Help Center Access
-* Clear Input Field Labeling and Iconography
-
-### 3.2 Post-Login Navigation and Information Presentation Improvements
-
-* Implementation of a Persistent Global Navigation Menu
-* Clear Identification of Course Action Indicators
-* Enhanced Schedule Visualization
-
-## 4. Benefits of Implementing User-Centered Design
-
-Adopting a user-centered design approach and implementing the proposed enhancements will yield significant benefits:
-
-* Improved User Experience
-* Increased Efficiency
-* Reduced Support Requests
-* Enhanced Accessibility
-* Professional Representation
-
-## 5. Conclusion
-
-The current A&D University class registration system, while fundamentally functional, can be significantly improved by adopting a user-centered design philosophy. Addressing the identified deficiencies in the login interface, navigation structure, and information presentation will lead to a more intuitive, efficient, and satisfying experience for students. By implementing the proposed enhancements, A&D University can demonstrate its commitment to user-centricity and provide a modern and effective platform for managing academic endeavors.
-
-## Contributing
-
-Contributions to the discussion and refinement of this proposal are welcome. Please feel free to open issues to suggest improvements or discuss specific aspects.
-
-## License
-
-This project is licensed under the MIT License - see the respective files for details. 
