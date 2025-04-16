@@ -1,7 +1,7 @@
 # User-Centered-System-Design-
 
-* [A&D University Food Services Digital Ordering System Proposal](#a&d-university-food-services-digital-ordering-system-proposal)
-* [A&D University Class Registration System Enhancement Proposal](#a&d-university-class-registration-system-enhancement-proposal)
+* [A&D University Food Services Digital Ordering System Proposal](#ad-university-food-services-digital-ordering-system-proposal)
+* [A&D University Class Registration System Enhancement Proposal](#ad-university-class-registration-system-enhancement-proposal)
 
 # A&D University Food Services Digital Ordering System Proposal
 
